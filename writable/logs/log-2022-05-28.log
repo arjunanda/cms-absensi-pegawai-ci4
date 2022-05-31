@@ -1,0 +1,42 @@
+CRITICAL - 2022-05-28 11:51:03 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\user\Documents\project_ci\absensi_pegawai\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\user\Documents\project_ci\absensi_pegawai\spark(45): require('C:\\Users\\user\\D...')
+#4 {main}
+CRITICAL - 2022-05-28 11:51:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\user\Documents\project_ci\absensi_pegawai\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\user\Documents\project_ci\absensi_pegawai\spark(45): require('C:\\Users\\user\\D...')
+#4 {main}
+CRITICAL - 2022-05-28 11:52:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\user\Documents\project_ci\absensi_pegawai\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\user\Documents\project_ci\absensi_pegawai\spark(45): require('C:\\Users\\user\\D...')
+#4 {main}
+CRITICAL - 2022-05-28 11:52:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\user\Documents\project_ci\absensi_pegawai\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\user\Documents\project_ci\absensi_pegawai\spark(45): require('C:\\Users\\user\\D...')
+#4 {main}
+CRITICAL - 2022-05-28 11:53:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\user\Documents\project_ci\absensi_pegawai\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\user\Documents\project_ci\absensi_pegawai\spark(45): require('C:\\Users\\user\\D...')
+#4 {main}
+CRITICAL - 2022-05-28 11:54:09 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\user\Documents\project_ci\absensi_pegawai\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\user\Documents\project_ci\absensi_pegawai\spark(45): require('C:\\Users\\user\\D...')
+#4 {main}
+CRITICAL - 2022-05-28 11:54:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\user\Documents\project_ci\absensi_pegawai\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\user\Documents\project_ci\absensi_pegawai\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\Users\user\Documents\project_ci\absensi_pegawai\spark(45): require('C:\\Users\\user\\D...')
+#4 {main}
